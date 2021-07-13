@@ -1,0 +1,13 @@
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\bin\Debug\SortExample.exe.config
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\bin\Debug\SortExample.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\bin\Debug\SortExample.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.Properties.Resources.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.csproj.GenerateResource.Cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.exe
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\bin\Debug\ProgramLogic.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\bin\Debug\ProgramLogic.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.DrawSort1.resources
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\SortExample\obj\Debug\SortExample.ShowGraphics.resources

@@ -1,0 +1,18 @@
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\FormUtils\bin\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\FormUtils\bin\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\bin\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\bin\Debug\FormUtils.pdb
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.dll
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\bin\Debug\FormUtils.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\bin\Debug\FormUtils.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\FormUtils\obj\Debug\FormUtils.pdb

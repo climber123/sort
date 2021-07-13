@@ -1,0 +1,19 @@
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\ProgramLogic.dll
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\ProgramLogic.pdb
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.dll
+C:\Users\Сергей\Desktop\Программирование\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.pdb
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.dll
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.pdb
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\ProgramLogic.dll
+C:\Users\Сергей\Desktop\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\ProgramLogic.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\ProgramLogic.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\ProgramLogic.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.csprojResolveAssemblyReference.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.dll
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\obj\Debug\ProgramLogic.pdb
+D:\1 курс\Программирование\C#\2 Семестр\Attestatin2.1\ProgramLogic\bin\Debug\System.Threading.Tasks.Dataflow.dll
